@@ -1,0 +1,32 @@
+*{
+    background-color: aliceblue;
+    padding: 0;
+    font-family: 'poppins';
+}
+body{
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+nav{
+    text-align: left;
+
+}
+nav li{
+    display: inline-block;
+}
+header{
+    
+}
+.judul1{
+    color: chartreuse;
+    border-bottom: 1px solid chartreuse;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.banner{
+    background-position: center;
+    width: 100%;
+}
